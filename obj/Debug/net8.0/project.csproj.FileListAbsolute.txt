@@ -1,0 +1,14 @@
+/home/wagner/Documentos/laravel estudo/project/bin/Debug/net8.0/project
+/home/wagner/Documentos/laravel estudo/project/bin/Debug/net8.0/project.deps.json
+/home/wagner/Documentos/laravel estudo/project/bin/Debug/net8.0/project.runtimeconfig.json
+/home/wagner/Documentos/laravel estudo/project/bin/Debug/net8.0/project.dll
+/home/wagner/Documentos/laravel estudo/project/bin/Debug/net8.0/project.pdb
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.AssemblyInfoInputs.cache
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.AssemblyInfo.cs
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.dll
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/refint/project.dll
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.pdb
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/project.genruntimeconfig.cache
+/home/wagner/Documentos/laravel estudo/project/obj/Debug/net8.0/ref/project.dll
