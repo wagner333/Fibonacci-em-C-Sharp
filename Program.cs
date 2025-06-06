@@ -29,7 +29,7 @@ namespace program
         public static void Main(string[] args)
         {
             Program program = new Program();
-            program.ExecutarFibonacci(); // Chama o método que executa a lógica
+            program.ExecutarFibonacci();
         }
     }
 }
